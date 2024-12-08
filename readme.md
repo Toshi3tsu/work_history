@@ -11,10 +11,14 @@ profile-views-counter
 ## 🎨 作品ポートフォリオ
 
 ### 画像生成
-- [ポートレート - AI生成画像](./portfolio/image_sample.png)
+![ポートレート - AI生成画像](./portfolio/image_sample.png): Stable Diffusionを使用して生成。
 
 ### 音楽生成
-- [AI生成音楽1](./portfolio/music_sample.mp3)
+- [AI生成音楽]
+<audio controls>
+    <source src="./portfolio/music/music_sample.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 
 ## 💁‍♂️ 私について
 
