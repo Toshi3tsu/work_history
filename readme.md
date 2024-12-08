@@ -17,7 +17,7 @@ profile-views-counter
 ### 音楽生成
 <h3>AI生成音楽</h3>
 <audio controls>
-    <source src="./portfolio/music_sample.mp3" type="audio/mpeg">
+    <source src="./portfolio/music_sample.mp3" type="audio/mp3">
     Your browser does not support the audio element.
 </audio>
 
