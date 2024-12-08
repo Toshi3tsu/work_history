@@ -11,11 +11,11 @@ profile-views-counter
 ## 🎨 作品ポートフォリオ
 
 ### 画像生成
-- [ポートレート - AI生成画像]
+<h3>ポートレート - AI生成画像</h3>
 <img src="./portfolio/image_sample.png" alt="ポートレート" width="300">
 
 ### 音楽生成
-- [AI生成音楽]
+<h3>AI生成音楽</h3>
 <audio controls>
     <source src="./portfolio/music_sample.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
